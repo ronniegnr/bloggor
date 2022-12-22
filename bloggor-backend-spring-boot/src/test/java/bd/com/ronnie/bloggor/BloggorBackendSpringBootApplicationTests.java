@@ -1,13 +1,13 @@
-package bd.com.ronnie.papper;
+package bd.com.ronnie.bloggor;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PapperApplicationTests {
+class BloggorBackendSpringBootApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
